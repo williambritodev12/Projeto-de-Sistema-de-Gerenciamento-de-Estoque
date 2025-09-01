@@ -40,6 +40,7 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo:
 
 ## 👨‍💻 Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/williambritodev12?v=4" width="100px;">](https://github.com/williambritodev12) |
+| [<img src="https://avatars.githubusercontent.com/u/194106196?s=400&u=7a7963b50b58a0c186688258b1483a9016f64cc5&v=4" width="100px;">](https://github.com/williambritodev12) |
 | :--------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                    William Carneiro Brito (https://github.com/williambritodev12)                                                     |
+
